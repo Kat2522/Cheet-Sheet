@@ -9,9 +9,7 @@ h1 {
 h2 {
     text-align: center;
 }
-h2, ol {
-    text-align: center;
-}
-h2, ol, li {
-    text-align: center;
+
+div {
+    padding: 0%;
 }
